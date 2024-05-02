@@ -1,6 +1,6 @@
 # Movies App UI
 
-### A new Movies App with a modern UI
+### A  Movies App with a modern UI
 
 ### I used:-
 #### - GlassMorphism to build a modern transparent bottom navigation bar.
